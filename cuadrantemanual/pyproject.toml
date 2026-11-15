@@ -1,0 +1,10 @@
+[tool.ruff]
+# Añade el código de la regla a la lista de ignorados
+lint.ignore = ["RUF012", "I001", "E501", "W292"]
+line-length = 120
+
+[tool.black]
+line-length = 120
+
+[tool.pyright]
+reportAttributeAccessIssue = "none"

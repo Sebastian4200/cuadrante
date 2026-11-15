@@ -1,0 +1,18 @@
+*.pyc
+*.png
+*.jpg
+*.webp
+*.svg
+*.pdf
+*.jpeg
+*.ttf
+*.woff
+*.woff2
+*.map
+*.sqlite3
+media/
+# migrations/
+staticfiles/
+__pycache__/
+.git/
+.vscode/
